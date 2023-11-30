@@ -1,5 +1,8 @@
 ![Reevaluating Software Design Patterns: Uncovering Patterns That Can Be More Burden Than Benefit](Thumbnail.jpg)
 
+## Elevator Pitch
+Dive into the paradox of software design patterns! Join us to uncover hidden complexities and pitfalls. Are they a burden or a benefit?
+
 ## Short Abstract
 Explore the dual nature of design patterns in software development, acknowledging their potency in solving recurring problems and their essential role in creating maintainable, scalable, and robust systems while also addressing the nuanced reality that not all patterns are equal; some revered patterns may inadvertently introduce increased complexity, decreased maintainability, and hinder productivity, delving into real-world scenarios where such patterns may lead to unintended consequences such as convoluted code, performance bottlenecks, and intricate debugging sessions.
 
@@ -34,7 +37,7 @@ Join us as we explore design patterns that have earned their place in software e
 
 | Event | Location | Date | Time | Room | Downloads |
 |-------|:--------:|-----:|-----:|-----:|----------:|
-| [Orlando Code Camp](https://orlandocodecamp.com/) | Sanford, FL | February 24, 2024 | TBD | TBD | Available Afterwards |
-| [Michigan Technology Conference](https://www.mitechcon.org/) | Pontiac, MI | March 21 - 22, 2024 | TBD | TBD | Available Afterwards |
+| [Michigan Technology Conference](https://www.mitechcon.org/) | Pontiac, MI | March 21 - 22, 2024 | TBA | TBA | Available Afterwards |
+| [Orlando Code Camp](https://orlandocodecamp.com/) | Sanford, FL | February 24, 2024 | TBA | TBA | Available Afterwards |
 
 Email [chadgreen@chadgreen.com](mailto:chadgreen@chadgreen.com?subject=Presentation%20Request:%20Presentation%20Title) to have Chad present this session at your event.
