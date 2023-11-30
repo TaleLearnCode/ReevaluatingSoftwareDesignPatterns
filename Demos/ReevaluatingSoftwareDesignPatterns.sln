@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34321.82
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton-Introduction", "Singleton\Singleton-Introduction\Singleton-Introduction.csproj", "{64773C04-647C-43B8-A98D-6B4C646C1623}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer-Introduction", "Observer\Observer-Introduction\Observer-Introduction.csproj", "{58D37D29-E7D3-4F16-854E-1A02B2E4C335}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{64773C04-647C-43B8-A98D-6B4C646C1623}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64773C04-647C-43B8-A98D-6B4C646C1623}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64773C04-647C-43B8-A98D-6B4C646C1623}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58D37D29-E7D3-4F16-854E-1A02B2E4C335}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58D37D29-E7D3-4F16-854E-1A02B2E4C335}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58D37D29-E7D3-4F16-854E-1A02B2E4C335}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58D37D29-E7D3-4F16-854E-1A02B2E4C335}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
