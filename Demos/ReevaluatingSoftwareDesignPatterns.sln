@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer-Introduction", "Ob
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer-Problem", "Observer\Observer-Problem\Observer-Problem.csproj", "{286A5467-D909-4B24-93A2-086D130DDE0F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory-Introduction", "Factory\Factory-Introduction\Factory-Introduction.csproj", "{CEE2252C-2112-4121-804F-816D3F44D7D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory-Problem", "Factory\Factory-Problem\Factory-Problem.csproj", "{386AA106-80CA-4857-9551-C5041BC8985C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{286A5467-D909-4B24-93A2-086D130DDE0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{286A5467-D909-4B24-93A2-086D130DDE0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{286A5467-D909-4B24-93A2-086D130DDE0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEE2252C-2112-4121-804F-816D3F44D7D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEE2252C-2112-4121-804F-816D3F44D7D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEE2252C-2112-4121-804F-816D3F44D7D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEE2252C-2112-4121-804F-816D3F44D7D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{386AA106-80CA-4857-9551-C5041BC8985C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{386AA106-80CA-4857-9551-C5041BC8985C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{386AA106-80CA-4857-9551-C5041BC8985C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{386AA106-80CA-4857-9551-C5041BC8985C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
