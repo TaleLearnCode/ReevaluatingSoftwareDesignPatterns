@@ -56,6 +56,9 @@ public static class SimpleClient
 {
 	public static void Demonstrate()
 	{
+
+		PrintBanner.Example2Simple();
+
 		IShape circle = new Circle();
 		circle.Draw();
 
@@ -67,6 +70,7 @@ public static class SimpleClient
 
 		IShape roundedSquare = new RoundedSquare();
 		roundedSquare.Draw();
+
 	}
 }
 

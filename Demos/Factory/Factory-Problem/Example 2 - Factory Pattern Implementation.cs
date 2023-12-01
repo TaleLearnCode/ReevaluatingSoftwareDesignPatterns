@@ -94,6 +94,9 @@ public static class FactoryClient
 {
 	public static void Demonstrate()
 	{
+
+		PrintBanner.Example2Factory();
+
 		IShapeFactory circleFactory = new CircleFactory();
 		IShape circle = circleFactory.CreateShape();
 		circle.Draw();
@@ -109,6 +112,7 @@ public static class FactoryClient
 		IShapeFactory roundedSquareFactory = new RoundedSquareFactory();
 		IShape roundedSquare = roundedSquareFactory.CreateShape();
 		roundedSquare.Draw();
+
 	}
 }
 

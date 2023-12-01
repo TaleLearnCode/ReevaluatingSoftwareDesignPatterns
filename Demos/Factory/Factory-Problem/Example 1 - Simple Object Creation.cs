@@ -33,11 +33,15 @@ public static class SimpleClient
 {
 	public static void Demonstrate()
 	{
+
+		PrintBanner.Example1Simple();
+
 		IShape circle = new Circle();
 		circle.Draw();
 
 		IShape square = new Square();
 		square.Draw();
+
 	}
 }
 
