@@ -1,0 +1,5 @@
+﻿global using TaleLearnCode.ReevaluatingSoftwareDesignPatterns.Factory;
+global using Example1Factory = TaleLearnCode.ReevaluatingSoftwareDesignPatterns.Factory.Example1.FactoryPatternImplementation;
+global using Example1Simple = TaleLearnCode.ReevaluatingSoftwareDesignPatterns.Factory.Example1.SimpleObjectCreation;
+global using Example2Factory = TaleLearnCode.ReevaluatingSoftwareDesignPatterns.Factory.Example2.FactoryPatternImplementation;
+global using Example2Simple = TaleLearnCode.ReevaluatingSoftwareDesignPatterns.Factory.Example2.SimpleObjectCreation;

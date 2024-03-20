@@ -1,0 +1,1 @@
+﻿global using TaleLearnCode.ReevaluatingSoftwareDesignPatterns.TemplateMethod.Problem;
