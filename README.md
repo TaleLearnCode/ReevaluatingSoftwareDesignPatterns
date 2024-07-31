@@ -37,9 +37,10 @@ Join us as we explore design patterns that have earned their place in software e
 
 | Event | Location | Date | Time | Room | Downloads |
 |-------|:--------:|-----:|-----:|-----:|----------:|
+| [Beer City Code](https://www.beercitycode.com/) | Grand Rapids, MI | August 3, 2023 | 11:00 am EDT | 107 | [Slides](EventMaterials/ReevaluatingSoftwareDesignPatterns_BeerCityCode.pdf) |
 | [Michigan Technology Conference](https://www.mitechcon.org/) | Pontiac, MI | March 21, 2024 | 11:00 AM EDT | Clean Coders Room | [Slides](EventMaterials/ReevaluatingSoftwareDesignPatterns_MITechCon.pdf) |
 
-Email [chadgreen@chadgreen.com](mailto:chadgreen@chadgreen.com?subject=Presentation%20Request:%20Presentation%20Title) to have Chad present this session at your event.
+Email [chadgreen@chadgreen.com](mailto:chadgreen@chadgreen.com?subject=Presentation%20Request:%20Reevaulating%20Software%20Design%20Patterns) to have Chad present this session at your event.
 
 ## Resources
 There are no additional resources for this presentation.
