@@ -1,4 +1,7 @@
-![Reevaluating Software Design Patterns: Uncovering Patterns That Can Be More Burden Than Benefit](Thumbnail.jpg)
+![The Dark Side of Design Patterns: What They Don't Tell You](Thumbnail.jpg)
+
+# The Dark Side of Design Patterns: What They Don't Tell You
+Was Reevaluating Software Design Patterns: Uncovering Patterns That Can Be More Burden
 
 ## Elevator Pitch
 Dive into the paradox of software design patterns! Join us to uncover hidden complexities and pitfalls. Are they a burden or a benefit?
@@ -7,9 +10,9 @@ Dive into the paradox of software design patterns! Join us to uncover hidden com
 Explore the dual nature of design patterns in software development, acknowledging their potency in solving recurring problems and their essential role in creating maintainable, scalable, and robust systems while also addressing the nuanced reality that not all patterns are equal; some revered patterns may inadvertently introduce increased complexity, decreased maintainability, and hinder productivity, delving into real-world scenarios where such patterns may lead to unintended consequences such as convoluted code, performance bottlenecks, and intricate debugging sessions.
 
 ## Abstract
-Design patterns are potent tools in software development that solve recurring problems. These patterns have become essential in creating maintainable, scalable, and robust software systems. However, not all design patterns are created equal, and some well-respected patterns may inadvertently lead to increased complexity, decreased maintainability, and even hinder productivity. In this presentation, we'll delve into software design patterns that can cause more work than they are worth.
+Design patterns are potent tools in software development that solve recurring problems and are essential for creating maintainable, scalable, and robust systems. However, not all design patterns are created equal. Some well-respected patterns may inadvertently lead to increased complexity, decreased maintainability, and hinder productivity.
 
-Join us as we explore design patterns that have earned their place in software engineering history but may only sometimes live up to their reputation. We'll discuss real-world scenarios where these patterns can lead to unintended consequences, including convoluted code, performance bottlenecks, and intricate debugging sessions.
+Join us as we explore specific design patterns that can cause more work than they are worth. Through real-world scenarios, we will uncover how these patterns can lead to unintended consequences such as convoluted code, performance bottlenecks, and intricate debugging sessions.
 
 # Type
 - 45/60/75-minute session
@@ -29,17 +32,19 @@ Join us as we explore design patterns that have earned their place in software e
 - Unintended Consequences
 
 ## Learning Objectives
-- Learn to evaluate project contexts and requirements to determine where a particular design pattern is suitable or might lead to unnecessary complexities
-- Gain insights into the potential pitfalls, complexities, and maintenance difficulties associated with misapplied or overused patterns.
-- Explore strategies for adapting, adjusting, or even transitioning away from problematic patterns while maintaining code quality and functionality
+- Identify design patterns that may introduce more complexity than benefits.
+- Understand the real-world implications of using certain design patterns.
+- Learn strategies to mitigate the negative impacts of these patterns.
 
 ## Presentations
 
 | Event | Location | Date | Time | Room | Downloads |
 |-------|:--------:|-----:|-----:|-----:|----------:|
-| [dev up](https://www.devupconf.org/) | St. Charles, MO | August 16, 2024 | 9:45 am CDT | D1 | [Slides](EventMaterials/ReevaluatingSoftwareDesignPatterns-DevUp2024.pdf) \ [Demos](/Demos/) |
-| [Beer City Code](https://www.beercitycode.com/) | Grand Rapids, MI | August 3, 2024 | 11:00 am EDT | 107 | [Slides](EventMaterials/ReevaluatingSoftwareDesignPatterns-BeerCityCode.pdf) \ [Demos](/Demos/) |
-| [Michigan Technology Conference](https://www.mitechcon.org/) | Pontiac, MI | March 21, 2024 | 11:00 AM EDT | Clean Coders Room | [Slides](EventMaterials/ReevaluatingSoftwareDesignPatterns_MITechCon.pdf) \ [Demos](/Demos/)  |
+| [dev up](https://www.devupconf.org/) * | St. Charles, MO | August 16, 2024 | 9:45 am CDT | D1 | [Slides](EventMaterials/ReevaluatingSoftwareDesignPatterns-DevUp2024.pdf) \ [Demos](/Demos/) |
+| [Beer City Code](https://www.beercitycode.com/) * | Grand Rapids, MI | August 3, 2024 | 11:00 am EDT | 107 | [Slides](EventMaterials/ReevaluatingSoftwareDesignPatterns-BeerCityCode.pdf) \ [Demos](/Demos/) |
+| [Michigan Technology Conference](https://www.mitechcon.org/) * | Pontiac, MI | March 21, 2024 | 11:00 AM EDT | Clean Coders Room | [Slides](EventMaterials/ReevaluatingSoftwareDesignPatterns_MITechCon.pdf) \ [Demos](/Demos/)  |
+
+* Listed as "Reevaluating Software Design Patterns: Uncovering Patterns That Can Be More Burden"
 
 Email [chadgreen@chadgreen.com](mailto:chadgreen@chadgreen.com?subject=Presentation%20Request:%20Reevaulating%20Software%20Design%20Patterns) to have Chad present this session at your event.
 
