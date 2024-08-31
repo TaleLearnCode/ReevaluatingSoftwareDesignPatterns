@@ -36,6 +36,17 @@ Join us as we explore specific design patterns that can cause more work than the
 - Understand the real-world implications of using certain design patterns.
 - Learn strategies to mitigate the negative impacts of these patterns.
 
+## Prerequisites
+To get the most out of this presentation, attendees should ideally have the following background and skills:
+
+- **Basic Understanding of Design Patterns**: Knowledge of the purpose and typical use cases for these patterns.
+- **Experience in Software Development**: Practical experience in writing and maintaining code and understanding of software development principles and best practices.
+- **Knowledge of Object-Oriented Programming (OOP)**: Proficiency in OOP concepts like inheritance, polymorphism, encapsulation, and abstraction.
+- **Familiarity with Software Architecture**: Understanding of how design patterns fit into larger software architecture.
+- **Interest in Code Quality and Maintainability**: A keen interest in writing clean, maintainable, and efficient code.
+
+This presentation will delve into the potential pitfalls of certain design patterns, so having a solid foundation in these areas will help you fully grasp the concepts and discussions. Looking forward to seeing you there!
+
 ## Presentations
 
 | Event | Location | Date | Time | Room | Downloads |
