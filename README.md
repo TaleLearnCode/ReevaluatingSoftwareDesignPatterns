@@ -51,6 +51,7 @@ This presentation will delve into the potential pitfalls of certain design patte
 
 | Event | Location | Date | Time | Room | Downloads |
 |-------|:--------:|-----:|-----:|-----:|----------:|
+| [CodeMash](https://www.codemash.org) | Sandusky, OH | January 17, 2024 | 11:00 am EST | Cyprus | [Slides](EventMaterials/TheDarkSideOfPatterns-CodeMash2024.pdf) \ [Demos](/Demos/) |
 | [dev up](https://www.devupconf.org/) * | St. Charles, MO | August 16, 2024 | 9:45 am CDT | D1 | [Slides](EventMaterials/ReevaluatingSoftwareDesignPatterns-DevUp2024.pdf) \ [Demos](/Demos/) |
 | [Beer City Code](https://www.beercitycode.com/) * | Grand Rapids, MI | August 3, 2024 | 11:00 am EDT | 107 | [Slides](EventMaterials/ReevaluatingSoftwareDesignPatterns-BeerCityCode.pdf) \ [Demos](/Demos/) |
 | [Michigan Technology Conference](https://www.mitechcon.org/) * | Pontiac, MI | March 21, 2024 | 11:00 AM EDT | Clean Coders Room | [Slides](EventMaterials/ReevaluatingSoftwareDesignPatterns_MITechCon.pdf) \ [Demos](/Demos/)  |
